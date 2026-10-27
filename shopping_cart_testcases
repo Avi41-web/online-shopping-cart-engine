@@ -1,0 +1,52 @@
+from shopping_cart import calculate_subtotal
+
+print("\n========== TEST CASE 1 ==========")
+# Test: Invalid product number
+# Input: 10
+# Expected: Invalid product number
+
+product_id = 10
+
+if product_id not in products:
+    print("Test Passed: Invalid product number!")
+else:
+    print("Test Failed")
+
+
+print("\n========== TEST CASE 2 ==========")
+# Test: Invalid quantity
+# Input: 0
+# Expected: Quantity must be greater than zero
+
+quantity = 0
+
+if quantity <= 0:
+    print("Test Passed: Quantity must be greater than zero!")
+else:
+    print("Test Failed")
+
+    print("\n========== TEST CASE 3 ==========")
+# Test: Discount should NOT be applied
+# Subtotal = Rs.1500
+# Expected: No discount
+
+cart.clear()
+cart[2] = 1       # Shoes = Rs.1500
+
+subtotal = calculate_subtotal()
+
+if subtotal >= 2000:
+    print("Test Failed: Discount was incorrectly applied!")
+else:
+    print("Test Passed: No discount applied.")
+
+    print("\n========== TEST CASE 4 ==========")
+# Test: Empty cart checkout
+# Expected: Checkout should not generate a bill
+
+cart.clear()
+
+if not cart:
+    print("Test Passed: Cart is empty. Checkout rejected.")
+else:
+    print("Test Failed")

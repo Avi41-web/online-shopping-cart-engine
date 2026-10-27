@@ -1,0 +1,19 @@
+1. Algorithm
+1. Start the program.
+2. Store the available products, names, and prices.
+3. Create an empty shopping cart.
+4. Display the menu with five options:
+   - View products
+   - Add a product to the cart
+   - View the cart
+   - Remove a product
+   - Checkout and exit
+5. Ask the customer to enter a menu choice.
+6. If the choice is 1, display all available products and prices.
+7. If the choice is 2, ask for a product number and quantity, validate the input, and add the product to the cart.
+8. If the choice is 3, display the cart items, quantities, and subtotal.
+9. If the choice is 4, ask for a product number and remove that product from the cart if it exists.
+10. If the choice is 5, calculate the subtotal, apply a 10% discount if the subtotal is ₹2000 or more, display the final bill, and exit.
+11. If the customer enters an invalid menu choice, display an error message.
+12. Repeat the menu until the customer selects checkout and exit.
+13. Stop the program.
