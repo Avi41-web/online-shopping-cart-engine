@@ -1,0 +1,204 @@
+PS C:\Users\ADMIN\Desktop\shopping_cart> python -u "c:\Users\ADMIN\Desktop\shopping_cart\shopping_cart copy.py"
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): python -u "c:\Users\ADMIN\Desktop\shopping_cart\shopping_cart copy 2.py"
+Invalid choice! Please select 1 to 5.
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 1
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 3
+
+------ YOUR SHOPPING CART ------
+Your cart is empty.
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 1
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 3
+
+------ YOUR SHOPPING CART ------
+Your cart is empty.
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 
+Invalid choice! Please select 1 to 5.
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 3
+
+------ YOUR SHOPPING CART ------
+Your cart is empty.
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 1
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 2
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+Enter product number: 1
+Enter quantity: 3
+Product added to cart successfully!
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 2
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+Enter product number: 3
+Enter quantity: 3
+Product added to cart successfully!
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 2
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+Enter product number: 4
+Enter quantity: 4
+Product added to cart successfully!
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 2
+
+------ AVAILABLE PRODUCTS ------
+1. Shirt - Rs.500
+2. Shoes - Rs.1500
+3. Watch - Rs.1000
+4. Headphones - Rs.800
+5. Backpack - Rs.1200
+
+Enter product number: 5
+Enter quantity: 2
+Product added to cart successfully!
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5): 5
+
+------ YOUR SHOPPING CART ------
+Shirt | Quantity: 3 | Price: Rs.1500
+Watch | Quantity: 3 | Price: Rs.3000
+Headphones | Quantity: 4 | Price: Rs.3200
+Backpack | Quantity: 2 | Price: Rs.2400
+Subtotal: Rs.10100
+
+Subtotal:    Rs.10100.00
+Discount:    Rs.1010.00
+Final Total: Rs.9090.00
+Thank you for shopping!
+================================
+Program closed.
+PS C:\Users\ADMIN\Desktop\shopping_cart> python -u "c:\Users\ADMIN\Desktop\shopping_cart\shopping_cart copy.py"
+
+====== ONLINE SHOPPING CART ======
+1. View Products
+2. Add Product to Cart
+3. View Cart
+4. Remove Product from Cart
+5. Checkout and Exit
+Enter your choice (1-5):   
